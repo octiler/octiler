@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=octiler&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=octiler&show_icons=true&hide_title=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octiler&layout=compact&langs_count=10" alt="Languages" height="183">
 <!--
 **octiler/octiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
