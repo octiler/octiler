@@ -1,7 +1,7 @@
 <a align="center" href="https://github.com/octiler">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=octiler&show_icons=true&show_icons=true" width="465"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octiler&layout=compact&langs_count=10" alt="Languages" height="183">
+    <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octiler&layout=compact&langs_count=10" alt="Languages" height="183"-->
   </p>
 </a>
 
